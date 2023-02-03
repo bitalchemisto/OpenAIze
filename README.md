@@ -2,8 +2,6 @@
 
 OpenAIze, is a leading provider of AI integration services. We specialise in helping businesses of all sizes integrate OpenAI's cutting-edge technology into their products and services. Our mission is to empower companies to unlock the full potential of AI and gain a competitive edge in their respective markets.
 
-__OpenAIze is the semantic layer for integrating ai applications.__ It helps customers to user open-ai from modern data stores, organize it into consistent definitions, and deliver it to every application.
-
 ## Why OpenAIze?
 
 1. Integration and compatibility issues: Open-source AI technologies are often developed and maintained by a large, decentralized community, and compatibility issues can arise when integrating these technologies into existing systems and processes.
