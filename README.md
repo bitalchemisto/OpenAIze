@@ -1,35 +1,54 @@
 # OpenAIze
 
-Our company, OpenAIze, is a leading provider of AI integration services. We specialise in helping businesses of all sizes integrate OpenAI's cutting-edge technology into their products and services. Our mission is to empower companies to unlock the full potential of AI and gain a competitive edge in their respective markets.
+OpenAIze, is a leading provider of AI integration services. We specialise in helping businesses of all sizes integrate OpenAI's cutting-edge technology into their products and services. Our mission is to empower companies to unlock the full potential of AI and gain a competitive edge in their respective markets.
 
-## Brand Positioning:
-We are the go-to experts for seamless OpenAI API integration. We help businesses harness the power of AI to drive growth, efficiency and innovation.
+__OpenAIze is the semantic layer for integrating ai applications.__ It helps customers to user open-ai from modern data stores, organize it into consistent definitions, and deliver it to every application.
 
-## Brand Attributes:
-Innovative
-Reliable
-Expert
-Efficient
-Friendly
+## Why OpenAIze?
 
-## Logo:
-Our logo should be clean, modern and represent the cutting-edge technology that we provide.
+Describe the 3 problems here
 
-## Color palette:
-Our primary colors are shades of blue and gray. These colors reflect the technology-oriented and professional aspect of our company.
+Describe how OpenAIze solve this
+ 
 
-## Typography: 
-The primary font for our company is [font name]. This font should be used for all company communications, including website, marketing materials, and presentations.
+## Getting Started 🚀
 
-## Imagery: 
-The imagery used in our marketing materials should be high-quality and representative of the cutting-edge technology and services that we provide.
+### Cloud
 
-## Tone of Voice:
-Our tone of voice should be professional, informative and friendly. We should communicate in a way that is easy to understand and actionable for our clients.
+ 
+### Docker
 
-## Brand Usage:
-Our brand should be used consistently across all mediums and contexts, including website, marketing materials, packaging, advertising and merchandise.
+## Resources
 
-## Brand Governance:
+- [Documentation]
+- [Getting Started]
+- [Examples & Tutorials]
+- [Architecture]
 
-Responsibility for maintaining and enforcing the brand guidelines falls to the marketing team at OpenAIze. These guidelines should be reviewed and updated regularly to ensure that they remain aligned with our mission, values, and the changes in OpenAI's technology and services.
+## Community
+
+If you have any questions or need help - please join our Slack community of amazing developers.
+
+You are also welcome to join our **monthly community calls** where we discuss community news, OpenAIze team's plans, backlogs, use cases, etc. If you miss the call, the recordings will also be available after the meeting. 
+* When: TBD
+* Recordings will be posted on the Community Call Playlist
+
+### Our quarterly roadmap
+
+We publish our open source roadmap every quarter and discuss them during our monthly community calls. You can find our roadmap under here
+
+### Contributing
+
+There are many ways you can contribute to OpenAIze! Here are a few possibilities:
+
+* Star this repo..
+* Add OpenAIze to your stack.
+* Upvote issues with 👍 reaction so we know what's the demand for particular issue to prioritize it within road map.
+* Create issues every time you feel something is missing or goes wrong.
+* Provide pull requests for all open issues.
+
+All sort of contributions are **welcome and extremely helpful** 🙌 Please refer to [the contribution guide]
+
+## License
+
+OpenAIze is [Apache 2.0 licensed](./packages/cubejs-server/LICENSE).
