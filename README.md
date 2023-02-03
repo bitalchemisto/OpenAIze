@@ -6,10 +6,13 @@ __OpenAIze is the semantic layer for integrating ai applications.__ It helps cus
 
 ## Why OpenAIze?
 
-Describe the 3 problems here
+1. Integration and compatibility issues: Open-source AI technologies are often developed and maintained by a large, decentralized community, and compatibility issues can arise when integrating these technologies into existing systems and processes.
 
-Describe how OpenAIze solve this
- 
+2. Lack of support and maintenance: Open-source AI technologies often lack dedicated support and maintenance resources, making it difficult for businesses to resolve issues and get timely assistance when needed.
+
+3. Lack of expertise: Open-source AI technologies are complex and require a high level of expertise to implement and use effectively. This can make it difficult for businesses to find the necessary resources and skills to fully leverage the capabilities of these technologies.
+
+To mitigate these challenges, OpenAIze provides commercial support and services for open-source AI technologies. OpenAIze can provide the expertise and resources needed to help businesses effectively leverage the power of open-source AI technologies. 
 
 ## Getting Started 🚀
 
